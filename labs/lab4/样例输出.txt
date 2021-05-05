@@ -1,0 +1,6 @@
+probability by enumeration:  0.998
+probability by elimination:  0.998
+**********
+probability by enumeration:  0.284
+probability by elimination:  0.284
+**********

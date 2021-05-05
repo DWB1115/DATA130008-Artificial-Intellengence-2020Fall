@@ -1,0 +1,22 @@
+P(Earthquake = -)
+P(Burglary = + | John = +, Mary = +)
+******
+Burglary
+0.001
+***
+Earthquake
+0.002
+***
+Alarm | Burglary Earthquake
+0.95 + +
+0.94 + -
+0.29 - +
+0.001 - -
+***
+John | Alarm
+0.9 +
+0.05 -
+***
+Mary | Alarm
+0.7 +
+0.01 -
